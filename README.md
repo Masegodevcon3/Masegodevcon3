@@ -8,7 +8,7 @@ I’m passionate about building practical, user-centered solutions and continuou
 
 Tech Stack:
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width=30x> <img src="https://worldvectorlogo.com/logo/javascript-1" width=30px> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=30px> 
+<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width=30x> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width=30px> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=30px> 
 <!--
 **Masegodevcon3/Masegodevcon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
