@@ -18,8 +18,8 @@ You can connect with me on:
  🛠️ Tech Stack:
  
 - **Frontend:** HTML <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width=30x>, CSS <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=30px>, JavaScript <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width=30px>
-- **Backend:** Java (Spring Boot in progress) <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg"> 
-- **Tools:** Git <img src="https://cdn.worldvectorlogo.com/logos/git.svg">, GitHub <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg">, VS Code <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+- **Backend:** Java (Spring Boot in progress) <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" width=30px> 
+- **Tools:** Git <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width=30px>, GitHub <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width=30px>, VS Code <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width=30px>
  
 <!--
 **Masegodevcon3/Masegodevcon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
