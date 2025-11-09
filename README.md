@@ -8,8 +8,9 @@ I’m passionate about building practical, user-centered solutions and continuou
 
 ## 💡 Project Highlights
 - 🏆 **Finalist – FoodLink MVP (2025)**  
-  Developed a Minimum Viable Product that made it to the finalist round of a social innovation challenge.  
-  *FoodLink* connects local farmers, community gardens, and surplus food sources to reduce waste and fight food insecurity.
+My MVP, **FoodLink**, was selected as a **finalist** in a national social innovation challenge.  
+It’s a platform that connects farmers, community gardens, and surplus food sources to reduce waste and fight food insecurity.  
+This project taught me how code can empower communities — and that’s exactly the kind of impact I want my work to have.
 
 You can connect with me on:
 
@@ -20,7 +21,17 @@ You can connect with me on:
 - **Frontend:** HTML <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width=30x>, CSS <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=30px>, JavaScript <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width=30px>
 - **Backend:** Java (Spring Boot in progress) <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" width=30px> 
 - **Tools:** Git <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width=30px>, GitHub <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width=30px>, VS Code <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width=30px>
- 
+
+ ### 🌱 Currently Learning
+- Responsive web development  
+- APIs and backend integration  
+- Building meaningful, scalable solutions
+
+## 🎯 Career Goals
+My long-term goal is to grow into a **Full-Stack Developer**, gaining strong technical expertise and problem-solving experience.  
+From there, I plan to **transition into Business Analysis**, applying my technical and analytical skills to bridge the gap between technology and business needs.  
+Ultimately, I aspire to become an **Agile Scrum Master**, leading teams to deliver innovative software solutions with collaboration, clarity, and purpose.
+
 <!--
 **Masegodevcon3/Masegodevcon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
