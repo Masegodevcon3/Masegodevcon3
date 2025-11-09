@@ -12,10 +12,6 @@ My MVP, **FoodLink**, was selected as a **finalist** in a national social innova
 It’s a platform that connects farmers, community gardens, and surplus food sources to reduce waste and fight food insecurity.  
 This project taught me how code can empower communities — and that’s exactly the kind of impact I want my work to have.
 
-You can connect with me on:
-
-<a href="https://www.linkedin.com/in/masego-mashishi-041a5923b/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width=30px></a> <a href="https://github.com/Masegodevcon3"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width=30px></a> <a href="mailto:masegomashishi@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width=30px></a>
-
  🛠️ Tech Stack:
  
 - **Frontend:** HTML <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width=30x>, CSS <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=30px>, JavaScript <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width=30px>
@@ -31,6 +27,11 @@ You can connect with me on:
 My long-term goal is to grow into a **Full-Stack Developer**, gaining strong technical expertise and problem-solving experience.  
 From there, I plan to **transition into Business Analysis**, applying my technical and analytical skills to bridge the gap between technology and business needs.  
 Ultimately, I aspire to become an **Agile Scrum Master**, leading teams to deliver innovative software solutions with collaboration, clarity, and purpose.
+
+You can connect with me on:
+
+<a href="https://www.linkedin.com/in/masego-mashishi-041a5923b/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width=30px></a> <a href="https://github.com/Masegodevcon3"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width=30px></a> <a href="mailto:masegomashishi@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width=30px></a>
+
 
 <!--
 **Masegodevcon3/Masegodevcon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
