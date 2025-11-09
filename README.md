@@ -1,8 +1,10 @@
-## Hi there <img src=https://iam-weijie.github.io/wave/hand-emoji.svg width=25px>, I am Masego Mashishi!
+## Hi there <img src=https://iam-weijie.github.io/wave/hand-emoji.svg width=30px>, I am Masego Mashishi!
 
-Let's connect: Discord <img alt="Discord" src="https://img.shields.io/discord/:1101527454083993751"> FreeCdecamp <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/:fccd382b7c1-2b04-4a4e-9a71-8e79d227cc8a"> 
+A detail-oriented and motivated professional currently pursuing a career in software development. My journey began in administrative and operations roles, where I developed strong problem-solving, organizational, and communication skills that now form the foundation of my approach to tech.
 
+Through the Digiata Software Development Scholarship with CodeSpace, I’ve been immersed in front-end and back-end programming, learning key technologies such as HTML, CSS, Java, and JavaScript. This experience has sparked a deep interest in how software can streamline processes, improve efficiency, and create real-world impact — especially within business and community-focused environments.
 
+I’m passionate about building practical, user-centered solutions and continuously developing my skills to become a versatile and innovative developer. My career goal is to grow into a full-stack developer who not only writes clean, efficient code but also contributes to projects that solve meaningful problems and empower people through technology.
 <!--
 **Masegodevcon3/Masegodevcon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
