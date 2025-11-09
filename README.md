@@ -7,7 +7,7 @@ Through the Digiata Software Development Scholarship with CodeSpace, I’ve been
 I’m passionate about building practical, user-centered solutions and continuously developing my skills to become a versatile and innovative developer. My career goal is to grow into a full-stack developer who not only writes clean, efficient code but also contributes to projects that solve meaningful problems and empower people through technology.
 
 You can connect with me on:      
-<a href="https://www.linkedin.com/in/masego-mashishi-041a5923b/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width=30px></a>     <a><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width=30px></a> <a>masegomashishi@gmail.com<img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width=30px></a>
+<a href="https://www.linkedin.com/in/masego-mashishi-041a5923b/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width=30px></a>     <a><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width=30px></a> <a href="masegomashishi@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width=30px></a>
 
 Tech Stack:
 
