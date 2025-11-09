@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there <img src=https://iam-weijie.github.io/wave/hand-emoji.svg 25px>, I am Masego Mashishi!
+
+Let's connect: Discord <img alt="Discord" src="https://img.shields.io/discord/:1101527454083993751"> FreeCdecamp <img alt="freeCodeCamp points" src="https://img.shields.io/freecodecamp/points/:fccd382b7c1-2b04-4a4e-9a71-8e79d227cc8a"> 
+
 
 <!--
 **Masegodevcon3/Masegodevcon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
