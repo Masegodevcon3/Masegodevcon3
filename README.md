@@ -6,9 +6,12 @@ Through the Digiata Software Development Scholarship with CodeSpace, I’ve been
 
 I’m passionate about building practical, user-centered solutions and continuously developing my skills to become a versatile and innovative developer. My career goal is to grow into a full-stack developer who not only writes clean, efficient code but also contributes to projects that solve meaningful problems and empower people through technology.
 
+You can connect with me on: 
+<a href="https://www.linkedin.com/in/masego-mashishi-041a5923b/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width=30px></a> <a><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width=30px></a>
+
 Tech Stack:
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width=30x> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width=30px> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=30px> <img src"https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" width=30px> <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" width=30px> <
+<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" width=30x> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width=30px> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width=30px> <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" width=30px> <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" width=30px> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width=30px> 
 <!--
 **Masegodevcon3/Masegodevcon3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
