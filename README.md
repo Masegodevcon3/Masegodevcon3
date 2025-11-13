@@ -4,13 +4,18 @@ A detail-oriented and motivated professional currently pursuing a career in soft
 
 Through the Digiata Software Development Scholarship with CodeSpace, I’ve been immersed in front-end and back-end programming, learning key technologies such as HTML, CSS, Java, and JavaScript. This experience has sparked a deep interest in how software can streamline processes, improve efficiency, and create real-world impact — especially within business and community-focused environments.
 
-I’m passionate about building practical, user-centered solutions and continuously developing my skills to become a versatile and innovative developer. My career goal is to grow into a full-stack developer who not only writes clean, efficient code but also contributes to projects that solve meaningful problems and empower people through technology.
+I’m passionate about building practical, user-centered solutions and continuously developing my skills to become a versatile and innovative developer. My career goal is to grow into a full-stack developer who not only writes clean, efficient code but also contributes to projects that solve meaningful problems and empower people through technology. 
 
-## 💡 Project Highlights
-- 🏆 **Finalist – FoodLink MVP (2025)**  
-My MVP, **FoodLink**, was selected as a **finalist** in a national social innovation challenge.  
-It’s a platform that connects farmers, community gardens, and surplus food sources to reduce waste and fight food insecurity.  
-This project taught me how code can empower communities — and that’s exactly the kind of impact I want my work to have.
+## 🏆 Major Achievement
+
+### 🥇 **Winner – CodeSpace Pitch Finale (2025)**  
+Awarded **1st place** for my innovative FoodLink MVP, recognized for addressing food insecurity through technology and community-driven solutions.  
+Winning this competition strengthened my belief in building tech with purpose and proved the impact of creating solutions that serve real people.
+
+---
+
+## 💡 Project Highlight
+
 
  🛠️ Tech Stack:
  
