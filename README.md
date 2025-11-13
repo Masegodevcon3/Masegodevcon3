@@ -16,6 +16,13 @@ Winning this competition strengthened my belief in building tech with purpose an
 
 ## 💡 Project Highlight
 
+### 🌱 **FoodLink – MVP (2025)**  
+A platform designed to connect **farmers, community gardens, and surplus food sources** to reduce waste and support vulnerable families.  
+This project helped me explore how code can empower communities — and further inspired my commitment to building socially impactful software.
+
+---
+
+
 
  🛠️ Tech Stack:
  
